@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">This text is centered.</h1>
 
 <!--
 **WandyHoshikawari/WandyHoshikawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
