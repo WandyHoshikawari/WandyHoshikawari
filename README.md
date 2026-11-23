@@ -1,5 +1,8 @@
 <h1 align="center">Hi There! My Name is Wander 👋🐺</h1>
-<h2 align="center"> Software Technician</h2>
+<h3 align="center"> Software Technician</h3>
+
+<h2 align="center">💫A Bit More About Me</h2>
+<h4> I’m Wandy, a 19 years old Multifaceted Software Analysis and Development student focused on web development (for now).</h4>
 
 ***
 <div align="center">
@@ -12,7 +15,6 @@
 </div>
 
 ***
-
 <div align="center">
     <h3>Some of my stats! 📊</h3>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=WandyHoshikawari&theme=material-palenight&hide_border=true&timezone=-5%3A00&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" />
